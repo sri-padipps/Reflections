@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+- to create a repository itself in first place and to bundle files to it
