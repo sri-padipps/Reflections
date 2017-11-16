@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 - when done coding a piece of logic which can work well with the master code
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- it might impact the current work I am doing in my local. It is safe to manually check the latest commits at hub and then decide whether to merge it with local
